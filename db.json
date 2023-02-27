@@ -1,26 +1,43 @@
 {
   "users": [
     {
-      "name": "Darrin Schmeler I",
+      "name": "Maria Kuhic",
+      "id": 12
+    },
+    {
+      "name": "Kristin Denesik",
+      "id": 13
+    },
+    {
+      "name": "April Rutherford",
+      "id": 14
+    },
+    {
+      "name": "Margaret Sanford",
+      "id": 15
+    }
+  ],
+  "albums": [
+    {
+      "userId": 15,
+      "title": "Incredible Metal Bike",
       "id": 2
     },
     {
-      "name": "Velma Kilback",
+      "userId": 12,
+      "title": "Fantastic Metal Gloves",
+      "id": 3
+    },
+    {
+      "userId": 12,
+      "title": "Recycled Wooden Pizza",
       "id": 4
     },
     {
-      "name": "Mrs. Paula Leuschke",
+      "userId": 12,
+      "title": "Rustic Plastic Chips",
       "id": 5
-    },
-    {
-      "name": "Daryl Bergnaum",
-      "id": 6
-    },
-    {
-      "name": "Melissa Monahan",
-      "id": 7
     }
   ],
-  "albums": [],
   "photos": []
 }
